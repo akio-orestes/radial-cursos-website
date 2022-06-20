@@ -10,14 +10,14 @@
 
 <p><strong>Contents</strong></p>
 <ul>
- <li>• Luminous Purple Styled Aesthetic;  </li>
- <li> • Animated Inputs;  </li>
- <li> • 100% Functional;   </li>
- <li>• Soon! BackEnd with MySQL and PHP. 🌟 </li>
+ <li> Luminous Purple Styled Aesthetic;  </li>
+ <li> Animated Inputs;  </li>
+ <li> 100% Functional;   </li>
+ <li> Soon! BackEnd with MySQL and PHP. 🌟 </li>
  </ul>
  
 <p><strong>Acess</p></strong>
 <p><strong> To interact with my project online, click on your side menu => On Github Pages or feel free to Download it! 🚘</p></strong>
 
-<p>• follow me for more and check out my UX/UI Portfolio on Dribbble or my Graphic Design Portfolio on cybermoon.art🚘 •</p>
+<p>• follow me for more and check out my UX/UI Portfolio on Dribbble or my Graphic Design Portfolio on <a href="cybermoon.art"  rel="external" target="_blank"> cybermoon.art </a>🚘 •</p>
  
