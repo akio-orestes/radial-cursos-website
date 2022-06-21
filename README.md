@@ -12,7 +12,7 @@
 <ul>
  <li> Luminous Purple Styled Aesthetic;  </li>
  <li> Animated Inputs;  </li>
- <li> 100% Functional;   </li>
+ <li> 100% Responsive;   </li>
  <li> Soon! BackEnd with MySQL and PHP. 🌟 </li>
  </ul>
  
